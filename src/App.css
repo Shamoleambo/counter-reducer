@@ -1,0 +1,14 @@
+.app {
+  text-align: center;
+  margin-top: 50px;
+}
+
+button {
+  margin: 5px;
+  padding: 10px;
+  font-size: 16px;
+}
+
+p {
+  font-size: 24px;
+}
